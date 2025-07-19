@@ -4,6 +4,8 @@ Hi, I'm a Full Stack developer with great interest in Technologies and IT develo
 ### 🛠 &nbsp;Languages
 <p align = "center">
   <img src="https://img.shields.io/badge/Python-5C2D91?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/R-316192?style=for-the-badge&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00000F?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
